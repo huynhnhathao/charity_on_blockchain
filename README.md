@@ -1,22 +1,5 @@
 # Embrace the Transparency in Charity Funds
 
-## Ideas
-
-- It's like a social network, where people can post their story and other people can support it
-- smart contract once deployed, at the protocol level they own themself and work at their will, although you can explicitly code the special privileges to the smart contract.
-- finance essential products
-- With Bitcoin donations, donors will be able to directly check the impact of their contribution on our activities.
-- we have projects, each project has its own clear purposes, its raising amount and a fund raising campaign.
-
-The main idea:
-
-- One project/fundraising campaign will represented by one Smartcontract
-- Every fundraising project stated its purpose and hardcoded in the Smartcontract.
-- Every fundraising project specify the amount to raise, in how long, if not enough fund in the specified time, all the money are returned back to the donors. 
-- The donors should be able to observe the final used of their money. For example, if the project's purpose is raise money to buy medical suppliers for a hospital, the donors should be able to see the receipts from the merchants and a confirm that the hospital received the suppliers. The Smartcontract order the products and send money directly to the merchants, not through any intermediaries.
-- Everyone is able to donors, her name and the amount of Ether will be saved by the Smartcontract
--  
-
 ## Compare to normal charity fundraising
 
 The donors want her money to goes directly to the intended beneficiaries, without dropping any cent along the track from donors to beneficiaries.
